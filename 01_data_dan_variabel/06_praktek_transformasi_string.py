@@ -27,6 +27,7 @@ print(f"Dipotong: {teks_berulang.strip('Kopi')}\n")
 # --- 3. MENCOCOKKAN AWALAN & AKHIRAN ---
 print("=== 3. START/END WITH ===")
 domain = "https://belajarpython.id"
+print(f"Domain: {domain}")
 print(f"Apakah secure link? (diawali https) -> {domain.startswith('https')}")
 print(f"Apakah berdomain .id?               -> {domain.endswith('.id')}\n")
 

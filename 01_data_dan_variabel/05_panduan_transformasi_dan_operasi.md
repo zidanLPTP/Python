@@ -1,5 +1,4 @@
-````md id="h73m9q"
-# 05. Menguasai Sihir String & Operasi Kumpulan Data
+# 05. Menguasai String & Operasi Kumpulan Data
 
 > Dalam pemrograman, data yang kita terima sering kali tidak langsung siap digunakan. Nama pengguna bisa memiliki huruf kapital yang tidak konsisten, terdapat spasi berlebih, atau bahkan format data yang berantakan. Untungnya, Python menyediakan banyak fungsi bawaan (*built-in methods*) yang memudahkan kita membersihkan, memvalidasi, dan memanipulasi data tersebut.
 
