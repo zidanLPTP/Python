@@ -42,7 +42,7 @@ for i in range(panjang_suhu):
     else:
         # Jika sudah sampai di ujung lantai apartemen / akhir indeks
         suhu_berikutnya = None
-        status = "⏹(Akhir Pemantauan)"
+        status = "(Akhir Pemantauan)"
         
     print(f"Jam Ke-{i} | Suhu Saat Ini: {suhu_sekarang}°C -> Berikutnya: {suhu_berikutnya if suhu_berikutnya else '-'} {status}")
 print()
